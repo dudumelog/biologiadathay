@@ -352,23 +352,23 @@ span {
     }
 
     .btn1-ebook, .btn2-ebook {
-        width: 50%;
+        width: 70%;
     }
 
     .servico img {
-        width: 258px;
+        width: 337px;
         text-align: center;
         border-top-left-radius: 30px;
         border-top-right-radius: 30px;}
 
     .btn1-card, .btn2-card {
-            padding-left: 92px;
-            padding-right: 92px;
+            padding-left: 132px;
+            padding-right: 132px;
                 
         }
 
     .ebook img {
-        width: 262px;
+        width: 337px;
     }
 
     .btn1-ebook, .btn2-ebook {
